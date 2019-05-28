@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("2.6.3:1", "", "DS - Ver historial Cliente", "EARoot/EA2/EA6/EA3/EA250.htm", "185.png", "95", "0", "", "Sequence diagram0","{DF785392-021C-4a97-AA6D-19BBF2C95229}");
+tocTab[tocTab.length] = new Array("2.6.3:2", "", ": Pedido", "EARoot/EA2/EA6/EA3/EA252.htm", "25.png", "727", "0", "", "Object0","{49EEDC6E-F4AF-4197-95C9-05A660B0DA56}");
+tocTab[tocTab.length] = new Array("2.6.3:3", "", ": Cliente", "EARoot/EA2/EA6/EA3/EA253.htm", "25.png", "726", "0", "", "Object0","{397B4934-4D43-4348-86A8-7BA7E833C1C8}");
+tocTab[tocTab.length] = new Array("2.6.3:4", "", ": ClientForm", "EARoot/EA2/EA6/EA3/EA254.htm", "25.png", "725", "0", "", "Object0","{4AE3BF32-E102-4e6d-8AA1-481D5523FFA4}");
+tocTab[tocTab.length] = new Array("2.6.3:5", "", ": ClienteView", "EARoot/EA2/EA6/EA3/EA255.htm", "25.png", "724", "0", "", "Object0","{11E3B6FC-2478-4aff-A014-4284F2A76C4B}");
+tocTab[tocTab.length] = new Array("2.6.3:6", "", "«boundary» Templates", "EARoot/EA2/EA6/EA3/EA256.htm", "57.png", "723", "0", "", "Sequence0","{433E1454-BEC6-4edd-B583-91B158688D45}");

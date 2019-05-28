@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("3.3.1", "1", "DA - verifica el ingreso de productos a la BBDD", "EARoot/EA3/EA3/EA384.htm", "4.png", "", "", "{1CC52B0C-7899-43d0-8FE8-38239B6AA80E}", "Package");
+tocTab[tocTab.length] = new Array("3.3.2", "1", "DA - Verificar Alamacen", "EARoot/EA3/EA3/EA385.htm", "4.png", "", "", "{6A72451B-D1C6-40cc-859E-C7A5CE02925C}", "Package");
+tocTab[tocTab.length] = new Array("3.3.3", "1", "DA- Ver los productos pedidos por el cliente", "EARoot/EA3/EA3/EA386.htm", "4.png", "", "", "{38E5F391-D468-4fd7-A18F-EC35E1945D8D}", "Package");
+tocTab[tocTab.length] = new Array("3.3.4", "1", "DA- Verifica la salida de los productos", "EARoot/EA3/EA3/EA387.htm", "4.png", "", "", "{A5E3A17A-E7C0-490c-BE64-EE2A70C9CF98}", "Package");

@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("3.5.1.1", "1", "DA- Delete Pedido", "EARoot/EA3/EA5/EA1/EA487.htm", "4.png", "", "", "{D88FA66F-5FD6-422e-9E22-17EE372958DD}", "Package");
+tocTab[tocTab.length] = new Array("3.5.1.2", "1", "DA- Insert Pedido", "EARoot/EA3/EA5/EA1/EA488.htm", "4.png", "", "", "{630EF033-4BD1-40cb-9102-477DAD101A63}", "Package");
+tocTab[tocTab.length] = new Array("3.5.1.3", "1", "DA- Update Pedido", "EARoot/EA3/EA5/EA1/EA489.htm", "4.png", "", "", "{32F1DDC2-6178-4dc3-A6A1-4A0A9358F41E}", "Package");

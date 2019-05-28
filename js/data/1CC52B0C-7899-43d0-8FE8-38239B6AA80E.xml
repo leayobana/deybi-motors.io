@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("3.3.1:1", "", "DA - verifica el ingreso de productos a la BBDD", "EARoot/EA3/EA3/EA1/EA388.htm", "181.png", "62", "0", "", "Activity diagram0","{849C9570-4C9A-41a9-BDA8-8160C4380031}");
+tocTab[tocTab.length] = new Array("3.3.1:2", "", "Sistema", "EARoot/EA3/EA3/EA1/EA390.htm", "116.png", "498", "0", "", "ActivityPartition0","{7BEB663F-48FA-475e-BD11-8942AA0E45DE}");
+tocTab[tocTab.length] = new Array("3.3.1:3", "", "Usuario", "EARoot/EA3/EA3/EA1/EA391.htm", "116.png", "497", "0", "", "ActivityPartition0","{AB1FDE5E-58B7-4faf-AE7E-4B9819E91E99}");
+tocTab[tocTab.length] = new Array("3.3.1:4", "", "Click en el btn de productos ingresados recientemente(3 dias)", "EARoot/EA3/EA3/EA1/EA392.htm", "21.png", "500", "497", "", "Activity0","{2931D684-80E7-4ac8-AC39-B79EE681372C}");
+tocTab[tocTab.length] = new Array("3.3.1:5", "", "Fin", "EARoot/EA3/EA3/EA1/EA393.htm", "69.png", "507", "497", "", "StateNode0","{70BD13EA-7B43-43b4-B728-7C897C00CC21}");
+tocTab[tocTab.length] = new Array("3.3.1:6", "", "inicio", "EARoot/EA3/EA3/EA1/EA394.htm", "68.png", "499", "497", "", "StateNode0","{7DC73D02-6442-4cae-9FEB-89A4A6F8D214}");
+tocTab[tocTab.length] = new Array("3.3.1:7", "", "Activity1", "EARoot/EA3/EA3/EA1/EA395.htm", "21.png", "503", "498", "", "Activity0","{C0F10D93-218E-466a-841D-45385B52C7C6}");
+tocTab[tocTab.length] = new Array("3.3.1:8", "", "busca en la base de datos segun su fecha todo los productos ingresados recientemente", "EARoot/EA3/EA3/EA1/EA396.htm", "21.png", "501", "498", "", "Activity0","{242E8F29-97CE-49ce-88F2-8A91C04EF6EB}");
+tocTab[tocTab.length] = new Array("3.3.1:9", "", "lista todo los productos ingresados recientemente", "EARoot/EA3/EA3/EA1/EA397.htm", "21.png", "502", "498", "", "Activity0","{5EC8A801-4E63-45d6-8103-1C4920B8B10B}");
+tocTab[tocTab.length] = new Array("3.3.1:10", "", "Muestra los productos ingresados", "EARoot/EA3/EA3/EA1/EA398.htm", "21.png", "506", "498", "", "Activity0","{367FBDDA-969C-4c06-A36A-BB8521FAE85D}");
+tocTab[tocTab.length] = new Array("3.3.1:11", "", "Muestra mensaje: &quot;no se encontro un poducto ingresado recientemente&quot;", "EARoot/EA3/EA3/EA1/EA399.htm", "21.png", "505", "498", "", "Activity0","{C5D39A34-E99A-4169-A56A-1E68DA626DB9}");
+tocTab[tocTab.length] = new Array("3.3.1:12", "", "Si encuentra productos ingresados recientemente", "EARoot/EA3/EA3/EA1/EA400.htm", "56.png", "504", "498", "", "Decision0","{125D5D6C-B470-4086-8A26-EA7AB405FA2E}");

@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("3.5.1.2:1", "", "DA- Insert Pedido", "EARoot/EA3/EA5/EA1/EA2/EA508.htm", "181.png", "18", "0", "", "Activity diagram0","{C6948767-B500-4c6c-BA46-E2B64F657A35}");
+tocTab[tocTab.length] = new Array("3.5.1.2:2", "", "Insert Pedido", "EARoot/EA3/EA5/EA1/EA2/EA510.htm", "116.png", "137", "0", "", "ActivityPartition0","{0E3DCBAD-38F6-4a3e-9396-1B584C8DEE71}");
+tocTab[tocTab.length] = new Array("3.5.1.2:3", "", "Sistema", "EARoot/EA3/EA5/EA1/EA2/EA511.htm", "116.png", "138", "0", "", "ActivityPartition0","{1E22DE71-B41B-4a79-A848-401AA1C13DDA}");
+tocTab[tocTab.length] = new Array("3.5.1.2:4", "", "Click en new pedido", "EARoot/EA3/EA5/EA1/EA2/EA512.htm", "21.png", "280", "137", "", "Activity0","{CFEDF5BB-C16C-464e-B976-23CCAF03CCDE}");
+tocTab[tocTab.length] = new Array("3.5.1.2:5", "", "Final", "EARoot/EA3/EA5/EA1/EA2/EA513.htm", "69.png", "279", "137", "", "StateNode0","{20D2D47E-FF13-41f5-9B97-06DB0E37B99F}");
+tocTab[tocTab.length] = new Array("3.5.1.2:6", "", "Ingresa todos los requisitos que pide el formulario  y click en btn  save ", "EARoot/EA3/EA5/EA1/EA2/EA514.htm", "21.png", "282", "137", "", "Activity0","{813B0E36-23F2-4a49-8917-69C90FC5983D}");
+tocTab[tocTab.length] = new Array("3.5.1.2:7", "", "Inicio", "EARoot/EA3/EA5/EA1/EA2/EA515.htm", "68.png", "278", "137", "", "StateNode0","{C5760E9A-6899-44a5-853B-049859052603}");
+tocTab[tocTab.length] = new Array("3.5.1.2:8", "", "Guarda informacion y se guarda en La BBDD", "EARoot/EA3/EA5/EA1/EA2/EA516.htm", "21.png", "286", "138", "", "Activity0","{25C51681-6FFF-4b4f-8157-E114710E4602}");
+tocTab[tocTab.length] = new Array("3.5.1.2:9", "", "Mostrar el formulario de los pedidos ", "EARoot/EA3/EA5/EA1/EA2/EA517.htm", "21.png", "281", "138", "", "Activity0","{0B363197-BF5B-4037-832C-FE6BAB76C35A}");
+tocTab[tocTab.length] = new Array("3.5.1.2:10", "", "Muestra mensaje de error ", "EARoot/EA3/EA5/EA1/EA2/EA518.htm", "21.png", "285", "138", "", "Activity0","{4B04D038-F0FE-4784-80EA-E837F0BE8DAA}");
+tocTab[tocTab.length] = new Array("3.5.1.2:11", "", "Muestra un mensaje de exito ", "EARoot/EA3/EA5/EA1/EA2/EA519.htm", "21.png", "287", "138", "", "Activity0","{E701B1FF-2FFF-4b57-84B1-2FCB8E85998A}");
+tocTab[tocTab.length] = new Array("3.5.1.2:12", "", "Si es correcto guarda", "EARoot/EA3/EA5/EA1/EA2/EA520.htm", "56.png", "284", "138", "", "Decision0","{8EB844D4-5F50-410e-9207-5DEB7E8C57ED}");
+tocTab[tocTab.length] = new Array("3.5.1.2:13", "", "Trae y muestra los pedidos correspondiente a los clientes ", "EARoot/EA3/EA5/EA1/EA2/EA521.htm", "21.png", "288", "138", "", "Activity0","{ADC6A7B1-00BF-4c67-826E-99BB20E69734}");
+tocTab[tocTab.length] = new Array("3.5.1.2:14", "", "Valida informacion ", "EARoot/EA3/EA5/EA1/EA2/EA522.htm", "21.png", "283", "138", "", "Activity0","{98394BA8-999A-443c-BB6F-0DDA24E4C066}");

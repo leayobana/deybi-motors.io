@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("3.6.1.2.1", "1", "DA - Eliminar Productos", "EARoot/EA3/EA6/EA1/EA2/EA629.htm", "4.png", "", "", "{AB019535-C509-4ca1-B9ED-2AFC18B1BCE1}", "Package");
+tocTab[tocTab.length] = new Array("3.6.1.2.2", "1", "DA - insertar producto", "EARoot/EA3/EA6/EA1/EA2/EA630.htm", "4.png", "", "", "{37E5BA61-05BA-4063-A351-B847355B70B1}", "Package");
+tocTab[tocTab.length] = new Array("3.6.1.2.3", "1", "DA - modificar producto", "EARoot/EA3/EA6/EA1/EA2/EA631.htm", "4.png", "", "", "{A17F27BE-D1EC-4ece-A69B-6FC903E96094}", "Package");

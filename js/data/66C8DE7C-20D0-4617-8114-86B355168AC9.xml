@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("2.1.1.1:1", "", "DS-DeleteProductos", "EARoot/EA2/EA1/EA1/EA1/EA88.htm", "185.png", "59", "0", "", "Sequence diagram0","{49E2591A-0C0F-469a-A662-5E128B9A4D75}");
+tocTab[tocTab.length] = new Array("2.1.1.1:2", "", ": Producto", "EARoot/EA2/EA1/EA1/EA1/EA90.htm", "25.png", "454", "0", "", "Object0","{E250FEA8-5998-47b6-9A4B-CD7E17C2FE6A}");
+tocTab[tocTab.length] = new Array("2.1.1.1:3", "", ": ProductForm", "EARoot/EA2/EA1/EA1/EA1/EA91.htm", "25.png", "453", "0", "", "Object0","{7FDF260A-0ACC-4183-AF1A-402DF191B749}");
+tocTab[tocTab.length] = new Array("2.1.1.1:4", "", ": ProductView", "EARoot/EA2/EA1/EA1/EA1/EA92.htm", "25.png", "452", "0", "", "Object0","{A1E29120-9E6E-48ff-882F-C6E0B9B013B5}");
+tocTab[tocTab.length] = new Array("2.1.1.1:5", "", "«boundary» Templates", "EARoot/EA2/EA1/EA1/EA1/EA93.htm", "57.png", "456", "0", "", "Sequence0","{0FB11C3B-C8A2-448f-ACA2-A0589641CA25}");

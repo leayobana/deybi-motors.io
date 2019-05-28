@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("2.6.1", "1", "DS - CRUD CLIpediPROD", "EARoot/EA2/EA6/EA198.htm", "4.png", "", "", "{8FF15C4D-DC7E-4985-85BC-309047E0E939}", "Package");
+tocTab[tocTab.length] = new Array("2.6.2", "1", "DS - Movimientos Productos", "EARoot/EA2/EA6/EA199.htm", "4.png", "", "", "{A29E7D50-C676-4d20-9C7F-0A2ECA9C64B0}", "Package");
+tocTab[tocTab.length] = new Array("2.6.3", "1", "DS - Ver historial Cliente", "EARoot/EA2/EA6/EA200.htm", "4.png", "", "", "{7C055DBF-2631-4982-BEEC-198C7F7879BC}", "Package");
+tocTab[tocTab.length] = new Array("2.6.4", "1", "DS - verificar el almacen BBDD", "EARoot/EA2/EA6/EA201.htm", "4.png", "", "", "{908A67D5-C9F6-4ca4-94C0-5360990D6C69}", "Package");

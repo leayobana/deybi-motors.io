@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("5.5:1", "", "Empresa", "EARoot/EA5/EA5/EA782.htm", "180.png", "8", "0", "", "Use Case diagram0","{2E0AEDD8-3676-455b-BFA6-F66591758466}");
+tocTab[tocTab.length] = new Array("5.5:2", "", "Ver los productos pedidos por el cliente", "EARoot/EA5/EA5/EA785.htm", "7.png", "51", "0", "", "UseCase0","{C7D0C5AF-671D-4d8a-948A-B9F88FD02E19}");
+tocTab[tocTab.length] = new Array("5.5:3", "", "verifica el ingreso de productos a la BBDD", "EARoot/EA5/EA5/EA786.htm", "7.png", "53", "0", "", "UseCase0","{A6A32815-0A6A-41e4-ADE7-1FEE7FB161E9}");
+tocTab[tocTab.length] = new Array("5.5:4", "", "verifica la salida de los productos ", "EARoot/EA5/EA5/EA787.htm", "7.png", "52", "0", "", "UseCase0","{4F59D045-2294-48bf-A64C-2E17CB6530EE}");
+tocTab[tocTab.length] = new Array("5.5:5", "", "Verificar el almacen ", "EARoot/EA5/EA5/EA788.htm", "7.png", "49", "0", "", "UseCase0","{CE249A72-ED71-45c7-A61C-D6B9E9407525}");
+tocTab[tocTab.length] = new Array("5.5:6", "", "Verificar la BBDD", "EARoot/EA5/EA5/EA789.htm", "7.png", "50", "0", "", "UseCase0","{7FE76630-A2AC-47a0-BF5A-4B2771125009}");

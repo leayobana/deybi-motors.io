@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("5.4:1", "", "Cliente", "EARoot/EA5/EA4/EA768.htm", "180.png", "7", "0", "", "Use Case diagram0","{7FCDC059-D8C0-420e-AAE4-09FD0667B254}");
+tocTab[tocTab.length] = new Array("5.4:2", "", "CRUD cliente", "EARoot/EA5/EA4/EA771.htm", "7.png", "461", "0", "", "UseCase0","{66A3604A-24E5-46cb-9990-C694522D867E}");
+tocTab[tocTab.length] = new Array("5.4:3", "", "CRUD Productos", "EARoot/EA5/EA4/EA772.htm", "7.png", "531", "0", "", "UseCase0","{A29686DC-36A3-4e1e-967E-9ACEC90A87AA}");
+tocTab[tocTab.length] = new Array("5.4:4", "", "Delete datos del cliente ", "EARoot/EA5/EA4/EA773.htm", "7.png", "47", "0", "", "UseCase0","{E9DCF9C6-F42F-404b-97D7-154BDB41239E}");
+tocTab[tocTab.length] = new Array("5.4:5", "", "Gestion de datos personales del cliente", "EARoot/EA5/EA4/EA775.htm", "7.png", "46", "0", "", "UseCase0","{1F5B4936-2B8E-4f6b-9E45-FE7F1844B290}");
+tocTab[tocTab.length] = new Array("5.4:6", "", "Gestion de productos", "EARoot/EA5/EA4/EA776.htm", "99.png", "44", "0", "", "UMLDiagram0","{AE5713B6-8F8C-4bc5-B050-B5D7656AE6D2}");
+tocTab[tocTab.length] = new Array("5.4:7", "", "insert datos del cliente ", "EARoot/EA5/EA4/EA777.htm", "7.png", "45", "0", "", "UseCase0","{B0DE681F-690B-4e68-9E54-EC9EFCAB76F9}");
+tocTab[tocTab.length] = new Array("5.4:8", "", "Insert pedido ", "EARoot/EA5/EA4/EA778.htm", "7.png", "41", "0", "", "UseCase0","{806F3AF6-EA4E-406f-A719-6AE846584BCE}");
+tocTab[tocTab.length] = new Array("5.4:9", "", "Pedido", "EARoot/EA5/EA4/EA779.htm", "99.png", "77", "0", "", "UMLDiagram0","{88615551-BA7E-4555-A614-1DF7656316A1}");
+tocTab[tocTab.length] = new Array("5.4:10", "", "Update pedido ", "EARoot/EA5/EA4/EA780.htm", "7.png", "42", "0", "", "UseCase0","{147F8179-124D-47f9-8A2F-F55DA8348F0D}");
+tocTab[tocTab.length] = new Array("5.4:11", "", "Ver todos los productos disponibles en la BBDD", "EARoot/EA5/EA4/EA781.htm", "7.png", "40", "0", "", "UseCase0","{FE63ABB4-F843-46c5-A8F2-456B0215E2EE}");
