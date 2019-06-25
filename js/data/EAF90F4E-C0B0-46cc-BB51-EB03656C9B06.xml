@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("2.2.1.2:1", "", "DS - Registrarse Cliente", "EARoot/EA2/EA2/EA1/EA2/EA121.htm", "185.png", "77", "0", "", "Sequence diagram0","{97B61205-132A-41b7-AA65-3F485E862661}");
-tocTab[tocTab.length] = new Array("2.2.1.2:2", "", ": Usuario", "EARoot/EA2/EA2/EA1/EA2/EA123.htm", "25.png", "552", "0", "", "Object0","{B43DCD49-BC6B-4a66-A9E9-1D2FF76A267A}");
-tocTab[tocTab.length] = new Array("2.2.1.2:3", "", ": UserForm", "EARoot/EA2/EA2/EA1/EA2/EA124.htm", "25.png", "551", "0", "", "Object0","{C16E3532-4FD8-480e-A90D-7E1DF8512756}");
-tocTab[tocTab.length] = new Array("2.2.1.2:4", "", ": UserView", "EARoot/EA2/EA2/EA1/EA2/EA125.htm", "25.png", "550", "0", "", "Object0","{C6B6824C-3810-4bd9-B863-3F8024BC73DF}");
-tocTab[tocTab.length] = new Array("2.2.1.2:5", "", "«boundary» Registrarse Cliente", "EARoot/EA2/EA2/EA1/EA2/EA126.htm", "57.png", "549", "0", "", "Sequence0","{41C05852-2734-483c-BA64-A47AE643872C}");
+tocTab[tocTab.length] = new Array("2.2.1.2:1", "", "DS - Registrarse Cliente", "EARoot/EA2/EA2/EA1/EA2/EA151.htm", "185.png", "77", "0", "", "Sequence diagram0","{97B61205-132A-41b7-AA65-3F485E862661}");
+tocTab[tocTab.length] = new Array("2.2.1.2:2", "", ": Usuario", "EARoot/EA2/EA2/EA1/EA2/EA153.htm", "25.png", "552", "0", "", "Object0","{B43DCD49-BC6B-4a66-A9E9-1D2FF76A267A}");
+tocTab[tocTab.length] = new Array("2.2.1.2:3", "", ": UserForm", "EARoot/EA2/EA2/EA1/EA2/EA154.htm", "25.png", "551", "0", "", "Object0","{C16E3532-4FD8-480e-A90D-7E1DF8512756}");
+tocTab[tocTab.length] = new Array("2.2.1.2:4", "", ": UserView", "EARoot/EA2/EA2/EA1/EA2/EA155.htm", "25.png", "550", "0", "", "Object0","{C6B6824C-3810-4bd9-B863-3F8024BC73DF}");
+tocTab[tocTab.length] = new Array("2.2.1.2:5", "", "«boundary» Registrarse Cliente", "EARoot/EA2/EA2/EA1/EA2/EA156.htm", "57.png", "549", "0", "", "Sequence0","{41C05852-2734-483c-BA64-A47AE643872C}");

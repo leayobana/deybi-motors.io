@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("2.6.4:1", "", "DS - verificar el almacen BBDD", "EARoot/EA2/EA6/EA4/EA257.htm", "185.png", "96", "0", "", "Sequence diagram0","{B1E4CA58-B015-46fc-B5D4-264D4A0645C6}");
-tocTab[tocTab.length] = new Array("2.6.4:2", "", ": Almacen", "EARoot/EA2/EA6/EA4/EA259.htm", "25.png", "731", "0", "", "Object0","{DC3EEA4B-B466-475a-BD97-BCE61885D9D3}");
-tocTab[tocTab.length] = new Array("2.6.4:3", "", ": AlmacenForm", "EARoot/EA2/EA6/EA4/EA260.htm", "25.png", "730", "0", "", "Object0","{22764B14-6C02-4dec-9F54-F2CE602ED594}");
-tocTab[tocTab.length] = new Array("2.6.4:4", "", ": AlmacenView", "EARoot/EA2/EA6/EA4/EA261.htm", "25.png", "729", "0", "", "Object0","{A500DE2E-CC92-4fc7-82E4-6D7219F9EF1B}");
-tocTab[tocTab.length] = new Array("2.6.4:5", "", "«boundary» Template", "EARoot/EA2/EA6/EA4/EA262.htm", "57.png", "728", "0", "", "Sequence0","{12636A24-FF72-4edc-8B9E-2B3359F13D68}");
+tocTab[tocTab.length] = new Array("2.6.4:1", "", "DS - verificar el almacen BBDD", "EARoot/EA2/EA6/EA4/EA287.htm", "185.png", "96", "0", "", "Sequence diagram0","{B1E4CA58-B015-46fc-B5D4-264D4A0645C6}");
+tocTab[tocTab.length] = new Array("2.6.4:2", "", ": Almacen", "EARoot/EA2/EA6/EA4/EA289.htm", "25.png", "731", "0", "", "Object0","{DC3EEA4B-B466-475a-BD97-BCE61885D9D3}");
+tocTab[tocTab.length] = new Array("2.6.4:3", "", ": AlmacenForm", "EARoot/EA2/EA6/EA4/EA290.htm", "25.png", "730", "0", "", "Object0","{22764B14-6C02-4dec-9F54-F2CE602ED594}");
+tocTab[tocTab.length] = new Array("2.6.4:4", "", ": AlmacenView", "EARoot/EA2/EA6/EA4/EA291.htm", "25.png", "729", "0", "", "Object0","{A500DE2E-CC92-4fc7-82E4-6D7219F9EF1B}");
+tocTab[tocTab.length] = new Array("2.6.4:5", "", "«boundary» Template", "EARoot/EA2/EA6/EA4/EA292.htm", "57.png", "728", "0", "", "Sequence0","{12636A24-FF72-4edc-8B9E-2B3359F13D68}");

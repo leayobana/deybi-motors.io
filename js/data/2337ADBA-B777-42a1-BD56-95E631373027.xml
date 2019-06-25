@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("2.5.2:1", "", "DS - Pedido reservado", "EARoot/EA2/EA5/EA2/EA192.htm", "185.png", "79", "0", "", "Sequence diagram0","{4B35598D-60A2-4cec-B86A-17AD00C1009B}");
-tocTab[tocTab.length] = new Array("2.5.2:2", "", ": Pedido", "EARoot/EA2/EA5/EA2/EA194.htm", "25.png", "588", "0", "", "Object0","{26C558E9-981E-4760-9CC3-F6AE7810734E}");
-tocTab[tocTab.length] = new Array("2.5.2:3", "", ": pedidosForm", "EARoot/EA2/EA5/EA2/EA195.htm", "25.png", "580", "0", "", "Object0","{3DA79BBA-083D-41cd-96DF-DE2C27339A6E}");
-tocTab[tocTab.length] = new Array("2.5.2:4", "", ": ViewPedido", "EARoot/EA2/EA5/EA2/EA196.htm", "25.png", "579", "0", "", "Object0","{3D0B6907-E7BF-414d-B89F-AD8E669D0B12}");
-tocTab[tocTab.length] = new Array("2.5.2:5", "", "«boundary» Template", "EARoot/EA2/EA5/EA2/EA197.htm", "57.png", "578", "0", "", "Sequence0","{448F26D9-194E-4933-94F2-6891EF522C4A}");
+tocTab[tocTab.length] = new Array("2.5.2:1", "", "DS - Pedido reservado", "EARoot/EA2/EA5/EA2/EA222.htm", "185.png", "79", "0", "", "Sequence diagram0","{4B35598D-60A2-4cec-B86A-17AD00C1009B}");
+tocTab[tocTab.length] = new Array("2.5.2:2", "", ": Pedido", "EARoot/EA2/EA5/EA2/EA224.htm", "25.png", "588", "0", "", "Object0","{26C558E9-981E-4760-9CC3-F6AE7810734E}");
+tocTab[tocTab.length] = new Array("2.5.2:3", "", ": pedidosForm", "EARoot/EA2/EA5/EA2/EA225.htm", "25.png", "580", "0", "", "Object0","{3DA79BBA-083D-41cd-96DF-DE2C27339A6E}");
+tocTab[tocTab.length] = new Array("2.5.2:4", "", ": ViewPedido", "EARoot/EA2/EA5/EA2/EA226.htm", "25.png", "579", "0", "", "Object0","{3D0B6907-E7BF-414d-B89F-AD8E669D0B12}");
+tocTab[tocTab.length] = new Array("2.5.2:5", "", "«boundary» Template", "EARoot/EA2/EA5/EA2/EA227.htm", "57.png", "578", "0", "", "Sequence0","{448F26D9-194E-4933-94F2-6891EF522C4A}");

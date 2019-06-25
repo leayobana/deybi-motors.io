@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("2.6.1.2.2:1", "", "DS - Insertar Producto", "EARoot/EA2/EA6/EA1/EA2/EA2/EA233.htm", "185.png", "103", "0", "", "Sequence diagram0","{6E91E483-786F-4b92-AEF1-CB6CC97B2620}");
-tocTab[tocTab.length] = new Array("2.6.1.2.2:2", "", ": ProductForm", "EARoot/EA2/EA6/EA1/EA2/EA2/EA235.htm", "25.png", "642", "0", "", "Object0","{00CA469E-DF0E-47dc-99FA-B518216B5A06}");
-tocTab[tocTab.length] = new Array("2.6.1.2.2:3", "", ": ProductView", "EARoot/EA2/EA6/EA1/EA2/EA2/EA236.htm", "25.png", "641", "0", "", "Object0","{91C7D5E9-6B2D-4f2e-B9E8-003A863788AD}");
-tocTab[tocTab.length] = new Array("2.6.1.2.2:4", "", "«boundary» Temlpate", "EARoot/EA2/EA6/EA1/EA2/EA2/EA237.htm", "57.png", "643", "0", "", "Sequence0","{A0254AF9-CFC0-48be-A942-B7C4C2232D6A}");
+tocTab[tocTab.length] = new Array("2.6.1.2.2:1", "", "DS - Insertar Producto", "EARoot/EA2/EA6/EA1/EA2/EA2/EA263.htm", "185.png", "103", "0", "", "Sequence diagram0","{6E91E483-786F-4b92-AEF1-CB6CC97B2620}");
+tocTab[tocTab.length] = new Array("2.6.1.2.2:2", "", ": ProductForm", "EARoot/EA2/EA6/EA1/EA2/EA2/EA265.htm", "25.png", "642", "0", "", "Object0","{00CA469E-DF0E-47dc-99FA-B518216B5A06}");
+tocTab[tocTab.length] = new Array("2.6.1.2.2:3", "", ": ProductView", "EARoot/EA2/EA6/EA1/EA2/EA2/EA266.htm", "25.png", "641", "0", "", "Object0","{91C7D5E9-6B2D-4f2e-B9E8-003A863788AD}");
+tocTab[tocTab.length] = new Array("2.6.1.2.2:4", "", "«boundary» Temlpate", "EARoot/EA2/EA6/EA1/EA2/EA2/EA267.htm", "57.png", "643", "0", "", "Sequence0","{A0254AF9-CFC0-48be-A942-B7C4C2232D6A}");

@@ -1,5 +1,4 @@
 tocTab[tocTab.length] = new Array("1", "1", "Dagrama de clases", "EARoot/EA1.htm", "31.png", "", "", "{DE5D0E64-D43E-484e-8384-38692BB65E45}", "Package");
 tocTab[tocTab.length] = new Array("2", "1", "Deagrama de secuencias", "EARoot/EA2.htm", "31.png", "", "", "{FD815089-E3E9-4d2a-A422-BD82FD5270FB}", "Package");
 tocTab[tocTab.length] = new Array("3", "1", "Diagrama de Actividdes", "EARoot/EA3.htm", "31.png", "", "", "{98281F7F-198A-40f0-8287-7A1080F01553}", "Package");
-tocTab[tocTab.length] = new Array("4", "1", "Modelo BBDD", "EARoot/EA4.htm", "31.png", "", "", "{8072813A-33DA-4a7d-96B4-AD724C7261C3}", "Package");
-tocTab[tocTab.length] = new Array("5", "1", "Modelo de casos de uso", "EARoot/EA5.htm", "29.png", "", "", "{3006E8CB-8016-4392-B549-27199C15376B}", "Package");
+tocTab[tocTab.length] = new Array("4", "1", "Modelo de casos de uso", "EARoot/EA4.htm", "29.png", "", "", "{3006E8CB-8016-4392-B549-27199C15376B}", "Package");

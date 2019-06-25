@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("2.6.2:1", "", "DS - Movimientos Productos", "EARoot/EA2/EA6/EA2/EA244.htm", "185.png", "94", "0", "", "Sequence diagram0","{346DABDC-F960-49a3-A25B-5E2318AF45E0}");
-tocTab[tocTab.length] = new Array("2.6.2:2", "", ": Almacen", "EARoot/EA2/EA6/EA2/EA246.htm", "25.png", "721", "0", "", "Object0","{85BE1951-6C35-4440-9B86-06D46055B563}");
-tocTab[tocTab.length] = new Array("2.6.2:3", "", ": AlmacenForm", "EARoot/EA2/EA6/EA2/EA247.htm", "25.png", "720", "0", "", "Object0","{3284F574-9D6B-4c43-BE3C-C33C6390B18A}");
-tocTab[tocTab.length] = new Array("2.6.2:4", "", ": AlmacenView", "EARoot/EA2/EA6/EA2/EA248.htm", "25.png", "719", "0", "", "Object0","{9A4C862C-0F9B-474f-A3B3-8FE8F0D97722}");
-tocTab[tocTab.length] = new Array("2.6.2:5", "", "«boundary» Templates", "EARoot/EA2/EA6/EA2/EA249.htm", "57.png", "722", "0", "", "Sequence0","{C9B25091-B3D9-497a-AC96-9059076DFB83}");
+tocTab[tocTab.length] = new Array("2.6.2:1", "", "DS - Movimientos Productos", "EARoot/EA2/EA6/EA2/EA274.htm", "185.png", "94", "0", "", "Sequence diagram0","{346DABDC-F960-49a3-A25B-5E2318AF45E0}");
+tocTab[tocTab.length] = new Array("2.6.2:2", "", ": Almacen", "EARoot/EA2/EA6/EA2/EA276.htm", "25.png", "721", "0", "", "Object0","{85BE1951-6C35-4440-9B86-06D46055B563}");
+tocTab[tocTab.length] = new Array("2.6.2:3", "", ": AlmacenForm", "EARoot/EA2/EA6/EA2/EA277.htm", "25.png", "720", "0", "", "Object0","{3284F574-9D6B-4c43-BE3C-C33C6390B18A}");
+tocTab[tocTab.length] = new Array("2.6.2:4", "", ": AlmacenView", "EARoot/EA2/EA6/EA2/EA278.htm", "25.png", "719", "0", "", "Object0","{9A4C862C-0F9B-474f-A3B3-8FE8F0D97722}");
+tocTab[tocTab.length] = new Array("2.6.2:5", "", "«boundary» Templates", "EARoot/EA2/EA6/EA2/EA279.htm", "57.png", "722", "0", "", "Sequence0","{C9B25091-B3D9-497a-AC96-9059076DFB83}");
