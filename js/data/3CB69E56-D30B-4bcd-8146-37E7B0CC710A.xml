@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("4.9:1", "", "Super Administrador", "EARoot/EA4/EA9/EA832.htm", "180.png", "11", "0", "", "Use Case diagram0","{6F3EE4A4-42AE-45a3-A1E2-C5FAEF406E99}");
-tocTab[tocTab.length] = new Array("4.9:2", "", "Ver los datos personales de los clientes ", "EARoot/EA4/EA9/EA835.htm", "7.png", "59", "0", "", "UseCase0","{C1790D00-8D71-4ab8-8967-65DB26186F30}");
-tocTab[tocTab.length] = new Array("4.9:3", "", "Ver los productos disponibles ", "EARoot/EA4/EA9/EA836.htm", "7.png", "60", "0", "", "UseCase0","{03103FF0-411C-45d8-8279-34CD6D1E83FF}");
-tocTab[tocTab.length] = new Array("4.9:4", "", "Ver si esta disponible el producto", "EARoot/EA4/EA9/EA837.htm", "7.png", "55", "0", "", "UseCase0","{491C580A-118F-4147-84E5-E36B5E02E03B}");
-tocTab[tocTab.length] = new Array("4.9:5", "", "Verifica los productos que pieden los clientes", "EARoot/EA4/EA9/EA838.htm", "7.png", "56", "0", "", "UseCase0","{8AC240AE-914C-434d-B788-AB4E69B20EAD}");
+tocTab[tocTab.length] = new Array("4.9:1", "", "Super Administrador", "EARoot/EA4/EA9/EA835.htm", "180.png", "11", "0", "", "Use Case diagram0","{6F3EE4A4-42AE-45a3-A1E2-C5FAEF406E99}");
+tocTab[tocTab.length] = new Array("4.9:2", "", "Ver los datos personales de los clientes ", "EARoot/EA4/EA9/EA838.htm", "7.png", "59", "0", "", "UseCase0","{C1790D00-8D71-4ab8-8967-65DB26186F30}");
+tocTab[tocTab.length] = new Array("4.9:3", "", "Ver los productos disponibles ", "EARoot/EA4/EA9/EA839.htm", "7.png", "60", "0", "", "UseCase0","{03103FF0-411C-45d8-8279-34CD6D1E83FF}");
+tocTab[tocTab.length] = new Array("4.9:4", "", "Ver si esta disponible el producto", "EARoot/EA4/EA9/EA840.htm", "7.png", "55", "0", "", "UseCase0","{491C580A-118F-4147-84E5-E36B5E02E03B}");
+tocTab[tocTab.length] = new Array("4.9:5", "", "Verifica los productos que pieden los clientes", "EARoot/EA4/EA9/EA841.htm", "7.png", "56", "0", "", "UseCase0","{8AC240AE-914C-434d-B788-AB4E69B20EAD}");

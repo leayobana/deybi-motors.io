@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Muestra mensaje de error </title>
+<title>guarda informacion y se envia el pedido </title>
 <link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {
@@ -16,15 +16,15 @@ function initPage(src) {
 <body onload="initPage(this);" class="Content">
 <div class="pageHeader"></div>
 <div class="PageBody">
-	<span class="ObjectTitle">Muestra mensaje de error   : public   actividad</span>
+	<span class="ObjectTitle">guarda informacion y se envia el pedido   : public   actividad</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
-			<td width="85%" class="ObjectDetailsValue">27/06/2017 20:57:30</td>
+			<td width="85%" class="ObjectDetailsValue">27/06/2017 20:57:47</td>
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
-			<td class="ObjectDetailsValue">27/06/2017 20:57:37</td>
+			<td class="ObjectDetailsValue">27/06/2017 20:58:10</td>
 		</tr>
 		<tr style="height: 10px"><td colspan="2"></td></tr>
 		<tr>
@@ -57,19 +57,44 @@ function initPage(src) {
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{AFD5B098-AB17-4ccc-B9AC-8A9D49156944}</td>
+			<td class="ObjectDetailsValue">{E539B452-5D69-41c3-9B5B-21059807583B}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA500.htm">DA- pedido Envio </a></td>
+			<td class="ObjectDetailsValue"><a href="EA503.htm">DA- pedido Envio </a></td>
 		</tr>
 	</table>
 	
 	<div class="TableGroup" id="TableGroup">
 		<ul class="ItemTitle">
+			<li onClick="parent.toggleItem('FlowHasta');" id="FlowHastaTitle">Flujo Hasta</li>
 			<li onClick="parent.toggleItem('FlowDesde');" id="FlowDesdeTitle">Flujo Desde</li>
 			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Propiedades personalizadas</li>
 		</ul>
+		<div class="ItemBody" id="FlowHastaTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="50%" class="TableHeading">Element</td>
+					<td width="50%" class="TableHeading">Name</td>
+				</tr>
+				<tr>
+					<td width="50%" class="TableRow" valign="top">
+						<a href="EA515.htm">Muestra mensaje </a><br />
+						Actividad &nbsp;
+					</td>
+					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
+				</tr>
+				<tr>
+					<td class="TableRowBottomDashed"  colspan="2">
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1149" onclick="parent.toggleDiv('detailsDIVLinkFlow1149', 'DetailsImageLinkFlow1149')" />Details:
+							<div id="detailsDIVLinkFlow1149" class="DetailsDiv" >
+							&nbsp;
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
 		<div class="ItemBody" id="FlowDesdeTable">
 			<table border="0" cellspacing="0" cellpadding="0" class="Table">
 				<tr>
@@ -78,15 +103,15 @@ function initPage(src) {
 				</tr>
 				<tr>
 					<td width="50%" class="TableRow" valign="top">
-						<a href="EA514.htm">si son correctos</a><br />
+						<a href="EA517.htm">si son correctos</a><br />
 						Decisión &nbsp;
 					</td>
 					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
 				</tr>
 				<tr>
 					<td class="TableRowBottomDashed"  colspan="2">
-						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1160" onclick="parent.toggleDiv('detailsDIVLinkFlow1160', 'DetailsImageLinkFlow1160')" />Details:
-							<div id="detailsDIVLinkFlow1160" class="DetailsDiv" >
+						<div class="DetailsDivParent"><img src="../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1150" onclick="parent.toggleDiv('detailsDIVLinkFlow1150', 'DetailsImageLinkFlow1150')" />Details:
+							<div id="detailsDIVLinkFlow1150" class="DetailsDiv" >
 							&nbsp;
 							</div>
 						</div>

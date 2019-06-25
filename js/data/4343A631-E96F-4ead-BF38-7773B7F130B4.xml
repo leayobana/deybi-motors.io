@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("2.3.4:1", "", "DS- Ver los productos pedidos por el cliente", "EARoot/EA2/EA3/EA4/EA191.htm", "185.png", "65", "0", "", "Sequence diagram0","{D60F1A7F-4D14-4550-B8F0-9360365ECC57}");
-tocTab[tocTab.length] = new Array("2.3.4:2", "", ": Pedido", "EARoot/EA2/EA3/EA4/EA193.htm", "25.png", "496", "0", "", "Object0","{54DCE220-F110-449a-B557-51C1ABFB3A4C}");
-tocTab[tocTab.length] = new Array("2.3.4:3", "", ": DetallePedidoForm", "EARoot/EA2/EA3/EA4/EA194.htm", "25.png", "495", "0", "", "Object0","{F1201291-B03D-44de-87B3-42F2A0142FD8}");
-tocTab[tocTab.length] = new Array("2.3.4:4", "", ": DetallePedido", "EARoot/EA2/EA3/EA4/EA195.htm", "25.png", "494", "0", "", "Object0","{F50967D8-44EB-4746-87C2-92FB6D81FCBF}");
-tocTab[tocTab.length] = new Array("2.3.4:5", "", "«boundary» Template", "EARoot/EA2/EA3/EA4/EA196.htm", "57.png", "482", "0", "", "Sequence0","{158C5DEC-BD2D-4f32-928C-C1C2D12FE9FB}");
+tocTab[tocTab.length] = new Array("2.3.4:1", "", "DS- Ver los productos pedidos por el cliente", "EARoot/EA2/EA3/EA4/EA194.htm", "185.png", "65", "0", "", "Sequence diagram0","{D60F1A7F-4D14-4550-B8F0-9360365ECC57}");
+tocTab[tocTab.length] = new Array("2.3.4:2", "", ": Pedido", "EARoot/EA2/EA3/EA4/EA196.htm", "25.png", "496", "0", "", "Object0","{54DCE220-F110-449a-B557-51C1ABFB3A4C}");
+tocTab[tocTab.length] = new Array("2.3.4:3", "", ": DetallePedidoForm", "EARoot/EA2/EA3/EA4/EA197.htm", "25.png", "495", "0", "", "Object0","{F1201291-B03D-44de-87B3-42F2A0142FD8}");
+tocTab[tocTab.length] = new Array("2.3.4:4", "", ": DetallePedido", "EARoot/EA2/EA3/EA4/EA198.htm", "25.png", "494", "0", "", "Object0","{F50967D8-44EB-4746-87C2-92FB6D81FCBF}");
+tocTab[tocTab.length] = new Array("2.3.4:5", "", "«boundary» Template", "EARoot/EA2/EA3/EA4/EA199.htm", "57.png", "482", "0", "", "Sequence0","{158C5DEC-BD2D-4f32-928C-C1C2D12FE9FB}");
