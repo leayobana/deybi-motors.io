@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("2.3.1", "1", "DS -  Verifica la salida de los productos", "EARoot/EA2/EA3/EA167.htm", "4.png", "", "", "{9F4869D5-53A7-4aae-B566-A9523ECA31C0}", "Package");
-tocTab[tocTab.length] = new Array("2.3.2", "1", "DS - Verifica el ingreso de producctos a la BBDD", "EARoot/EA2/EA3/EA168.htm", "4.png", "", "", "{3BD476D9-2637-4700-9050-3B32EE085B27}", "Package");
-tocTab[tocTab.length] = new Array("2.3.3", "1", "DS - Verificar Almacen", "EARoot/EA2/EA3/EA169.htm", "4.png", "", "", "{B6AEAFAE-3777-4919-8DFA-477749A02BF4}", "Package");
-tocTab[tocTab.length] = new Array("2.3.4", "1", "DS- Ver los productos pedidos por el cliente", "EARoot/EA2/EA3/EA170.htm", "4.png", "", "", "{4343A631-E96F-4ead-BF38-7773B7F130B4}", "Package");
+tocTab[tocTab.length] = new Array("2.3.1", "1", "DS -  Verifica la salida de los productos", "EARoot/EA2/EA3/EA168.htm", "4.png", "", "", "{9F4869D5-53A7-4aae-B566-A9523ECA31C0}", "Package");
+tocTab[tocTab.length] = new Array("2.3.2", "1", "DS - Verifica el ingreso de producctos a la BBDD", "EARoot/EA2/EA3/EA169.htm", "4.png", "", "", "{3BD476D9-2637-4700-9050-3B32EE085B27}", "Package");
+tocTab[tocTab.length] = new Array("2.3.3", "1", "DS - Verificar Almacen", "EARoot/EA2/EA3/EA170.htm", "4.png", "", "", "{B6AEAFAE-3777-4919-8DFA-477749A02BF4}", "Package");
+tocTab[tocTab.length] = new Array("2.3.4", "1", "DS- Ver los productos pedidos por el cliente", "EARoot/EA2/EA3/EA171.htm", "4.png", "", "", "{4343A631-E96F-4ead-BF38-7773B7F130B4}", "Package");

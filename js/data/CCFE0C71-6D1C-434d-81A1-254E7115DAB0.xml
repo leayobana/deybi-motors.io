@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("3.2.2.1", "1", "DA - Delete Cliente", "EARoot/EA3/EA2/EA2/EA362.htm", "4.png", "", "", "{E8880C49-B6FD-4d39-84F9-74C0B7E34213}", "Package");
-tocTab[tocTab.length] = new Array("3.2.2.2", "1", "DA - Register cliente ", "EARoot/EA3/EA2/EA2/EA363.htm", "4.png", "", "", "{03E5E579-2C52-4119-B153-BB10BAA26820}", "Package");
-tocTab[tocTab.length] = new Array("3.2.2.3", "1", "DA -Update Cliente", "EARoot/EA3/EA2/EA2/EA364.htm", "4.png", "", "", "{E925934C-A021-40e9-8A47-5C873762C367}", "Package");
+tocTab[tocTab.length] = new Array("3.2.2.1", "1", "DA - Delete Cliente", "EARoot/EA3/EA2/EA2/EA363.htm", "4.png", "", "", "{E8880C49-B6FD-4d39-84F9-74C0B7E34213}", "Package");
+tocTab[tocTab.length] = new Array("3.2.2.2", "1", "DA - Register cliente ", "EARoot/EA3/EA2/EA2/EA364.htm", "4.png", "", "", "{03E5E579-2C52-4119-B153-BB10BAA26820}", "Package");
+tocTab[tocTab.length] = new Array("3.2.2.3", "1", "DA -Update Cliente", "EARoot/EA3/EA2/EA2/EA365.htm", "4.png", "", "", "{E925934C-A021-40e9-8A47-5C873762C367}", "Package");

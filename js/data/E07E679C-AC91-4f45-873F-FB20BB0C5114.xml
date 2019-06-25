@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("3.6.1", "1", "DA- CRUD CLIpediPROD", "EARoot/EA3/EA6/EA606.htm", "4.png", "", "", "{9CC7D9D0-3A5C-4ebd-A1CB-30F4322163C7}", "Package");
-tocTab[tocTab.length] = new Array("3.6.2", "1", "DA- Movimiento Productos", "EARoot/EA3/EA6/EA607.htm", "4.png", "", "", "{12EB6C2A-41F0-4004-B107-28A66BF52C8D}", "Package");
-tocTab[tocTab.length] = new Array("3.6.3", "1", "DA- Ver Historial del cliente", "EARoot/EA3/EA6/EA608.htm", "4.png", "", "", "{D4B7E908-12CC-4f7a-99DC-6092BBA71A71}", "Package");
-tocTab[tocTab.length] = new Array("3.6.4", "1", "DA- verifica el almacen BBDD", "EARoot/EA3/EA6/EA609.htm", "4.png", "", "", "{20839D61-49D4-4354-8929-FFF5EDEE1F5D}", "Package");
+tocTab[tocTab.length] = new Array("3.6.1", "1", "DA- CRUD CLIpediPROD", "EARoot/EA3/EA6/EA607.htm", "4.png", "", "", "{9CC7D9D0-3A5C-4ebd-A1CB-30F4322163C7}", "Package");
+tocTab[tocTab.length] = new Array("3.6.2", "1", "DA- Movimiento Productos", "EARoot/EA3/EA6/EA608.htm", "4.png", "", "", "{12EB6C2A-41F0-4004-B107-28A66BF52C8D}", "Package");
+tocTab[tocTab.length] = new Array("3.6.3", "1", "DA- Ver Historial del cliente", "EARoot/EA3/EA6/EA609.htm", "4.png", "", "", "{D4B7E908-12CC-4f7a-99DC-6092BBA71A71}", "Package");
+tocTab[tocTab.length] = new Array("3.6.4", "1", "DA- verifica el almacen BBDD", "EARoot/EA3/EA6/EA610.htm", "4.png", "", "", "{20839D61-49D4-4354-8929-FFF5EDEE1F5D}", "Package");

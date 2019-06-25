@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title></title>
+<title>Selecciona el producto a modificar</title>
 <link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
 <script>
 function initPage(src) {
@@ -16,15 +16,15 @@ function initPage(src) {
 <body onload="initPage(this);" class="Content">
 <div class="pageHeader"></div>
 <div class="PageBody">
-	<span class="ObjectTitle">  : public   decisión</span>
+	<span class="ObjectTitle">Selecciona el producto a modificar  : public   actividad</span>
 	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
 		<tr>
 			<td width="15%" class="ObjectDetailsTopic">Created:</td>
-			<td width="85%" class="ObjectDetailsValue">4/07/2017 01:36:53</td>
+			<td width="85%" class="ObjectDetailsValue">4/07/2017 01:34:39</td>
 		</tr>
 		<tr>
 			<td class="ObjectDetailsTopic">Modified:</td>
-			<td class="ObjectDetailsValue">4/07/2017 01:36:57</td>
+			<td class="ObjectDetailsValue">4/07/2017 01:34:56</td>
 		</tr>
 		<tr style="height: 10px"><td colspan="2"></td></tr>
 		<tr>
@@ -57,11 +57,11 @@ function initPage(src) {
 		</tr>
 		<tr id="adv00" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
-			<td class="ObjectDetailsValue">{586812B2-EEF0-4dcd-BC28-D74096D91C22}</td>
+			<td class="ObjectDetailsValue">{AD86F5E1-7D2C-4572-83CC-F77A1CB7169E}</td>
 		</tr>
 		<tr id="adv01" style="display: none;">
 			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
-			<td class="ObjectDetailsValue"><a href="EA694.htm">DA - modificar producto</a></td>
+			<td class="ObjectDetailsValue"><a href="EA695.htm">DA - modificar producto</a></td>
 		</tr>
 	</table>
 	
@@ -69,6 +69,7 @@ function initPage(src) {
 		<ul class="ItemTitle">
 			<li onClick="parent.toggleItem('FlowHasta');" id="FlowHastaTitle">Flujo Hasta</li>
 			<li onClick="parent.toggleItem('FlowDesde');" id="FlowDesdeTitle">Flujo Desde</li>
+			<li onClick="parent.toggleItem('CustomProperties');" id="CustomPropertiesTitle">Propiedades personalizadas</li>
 		</ul>
 		<div class="ItemBody" id="FlowHastaTable">
 			<table border="0" cellspacing="0" cellpadding="0" class="Table">
@@ -78,30 +79,15 @@ function initPage(src) {
 				</tr>
 				<tr>
 					<td width="50%" class="TableRow" valign="top">
-						<a href="EA707.htm">El sistema muestra un mensaje de error</a><br />
+						<a href="EA707.htm">El sistem saca los datos del producto seleccionado y el muestra en un formulario</a><br />
 						Actividad &nbsp;
 					</td>
 					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
 				</tr>
 				<tr>
 					<td class="TableRowBottomDashed"  colspan="2">
-						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1707" onclick="parent.toggleDiv('detailsDIVLinkFlow1707', 'DetailsImageLinkFlow1707')" />Details:
-							<div id="detailsDIVLinkFlow1707" class="DetailsDiv" >
-							&nbsp;
-							</div>
-						</div>
-					</td>
-				</tr>				<tr>
-					<td width="50%" class="TableRow" valign="top">
-						<a href="EA709.htm">Guarda la ctualizacion en la base de datos</a><br />
-						Actividad &nbsp;
-					</td>
-					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
-				</tr>
-				<tr>
-					<td class="TableRowBottomDashed"  colspan="2">
-						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1708" onclick="parent.toggleDiv('detailsDIVLinkFlow1708', 'DetailsImageLinkFlow1708')" />Details:
-							<div id="detailsDIVLinkFlow1708" class="DetailsDiv" >
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1703" onclick="parent.toggleDiv('detailsDIVLinkFlow1703', 'DetailsImageLinkFlow1703')" />Details:
+							<div id="detailsDIVLinkFlow1703" class="DetailsDiv" >
 							&nbsp;
 							</div>
 						</div>
@@ -117,15 +103,15 @@ function initPage(src) {
 				</tr>
 				<tr>
 					<td width="50%" class="TableRow" valign="top">
-						<a href="EA708.htm">El sistema valida la informacion actulizada</a><br />
+						<a href="EA706.htm">El sistem busca en la base de datos y lista todo los prodcutos</a><br />
 						Actividad &nbsp;
 					</td>
 					<td width="50%" class="TableRow" valign="top">&nbsp;</td>					
 				</tr>
 				<tr>
 					<td class="TableRowBottomDashed"  colspan="2">
-						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1709" onclick="parent.toggleDiv('detailsDIVLinkFlow1709', 'DetailsImageLinkFlow1709')" />Details:
-							<div id="detailsDIVLinkFlow1709" class="DetailsDiv" >
+						<div class="DetailsDivParent"><img src="../../../../../../images/minus03.gif" align="absmiddle" id="DetailsImageLinkFlow1704" onclick="parent.toggleDiv('detailsDIVLinkFlow1704', 'DetailsImageLinkFlow1704')" />Details:
+							<div id="detailsDIVLinkFlow1704" class="DetailsDiv" >
 							&nbsp;
 							</div>
 						</div>
@@ -133,7 +119,25 @@ function initPage(src) {
 				</tr>
 			</table>
 		</div>
-	</div>
+		<div class="ItemBody" id="CustomPropertiesTable">
+			<table border="0" cellspacing="0" cellpadding="0" class="Table">
+				<tr>
+					<td width="30%" class="TableHeading">Property</td>
+					<td width="70%" class="TableHeading">Value</td>
+				</tr>
+			<tr>
+				<td width="30%" class="TableRow">isReadOnly:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+			<tr>
+				<td width="30%" class="TableRow">isSingleExecution:</td>
+				<td width="70%" class="TableRow">false</td>
+			</tr>
+
+
+			</table>
+		</div>	</div>
 <div class="pageFooter"></div>
  
 </body>

@@ -1,3 +1,3 @@
-tocTab[tocTab.length] = new Array("2.1.1.1", "1", "DS-DeleteProductos", "EARoot/EA2/EA1/EA1/EA119.htm", "4.png", "", "", "{66C8DE7C-20D0-4617-8114-86B355168AC9}", "Package");
-tocTab[tocTab.length] = new Array("2.1.1.2", "1", "DS-InsertProducto", "EARoot/EA2/EA1/EA1/EA120.htm", "4.png", "", "", "{839E3D6D-4971-4381-ABC9-1C470CA24458}", "Package");
-tocTab[tocTab.length] = new Array("2.1.1.3", "1", "UpdateProduct", "EARoot/EA2/EA1/EA1/EA121.htm", "4.png", "", "", "{E1B1D44B-9755-499f-A3C1-135286D2C20A}", "Package");
+tocTab[tocTab.length] = new Array("2.1.1.1", "1", "DS-DeleteProductos", "EARoot/EA2/EA1/EA1/EA120.htm", "4.png", "", "", "{66C8DE7C-20D0-4617-8114-86B355168AC9}", "Package");
+tocTab[tocTab.length] = new Array("2.1.1.2", "1", "DS-InsertProducto", "EARoot/EA2/EA1/EA1/EA121.htm", "4.png", "", "", "{839E3D6D-4971-4381-ABC9-1C470CA24458}", "Package");
+tocTab[tocTab.length] = new Array("2.1.1.3", "1", "UpdateProduct", "EARoot/EA2/EA1/EA1/EA122.htm", "4.png", "", "", "{E1B1D44B-9755-499f-A3C1-135286D2C20A}", "Package");

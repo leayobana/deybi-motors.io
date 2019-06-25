@@ -1,6 +1,6 @@
-tocTab[tocTab.length] = new Array("2.5.1.1:1", "", "DS - Delete pedido", "EARoot/EA2/EA5/EA1/EA1/EA207.htm", "185.png", "80", "0", "", "Sequence diagram0","{506B6919-BCF6-4de1-B993-4F76C6AA1A65}");
-tocTab[tocTab.length] = new Array("2.5.1.1:2", "", ": Pedido", "EARoot/EA2/EA5/EA1/EA1/EA209.htm", "25.png", "565", "0", "", "Object0","{46FB2CCE-87DD-4503-BCA5-9E5E94C2D733}");
-tocTab[tocTab.length] = new Array("2.5.1.1:3", "", ": pedidosForm", "EARoot/EA2/EA5/EA1/EA1/EA210.htm", "25.png", "564", "0", "", "Object0","{B09A2164-C369-4d00-AFB8-B64AD64F5720}");
-tocTab[tocTab.length] = new Array("2.5.1.1:4", "", ": ViewPedido", "EARoot/EA2/EA5/EA1/EA1/EA211.htm", "25.png", "563", "0", "", "Object0","{31B7293B-A6F6-4882-B5F5-BE81BDBFCB39}");
-tocTab[tocTab.length] = new Array("2.5.1.1:5", "", "Object1", "EARoot/EA2/EA5/EA1/EA1/EA212.htm", "57.png", "566", "0", "", "Sequence0","{1D38A060-543D-4f49-80B6-8194426B1FE9}");
-tocTab[tocTab.length] = new Array("2.5.1.1:6", "", "«boundary» Template", "EARoot/EA2/EA5/EA1/EA1/EA213.htm", "57.png", "567", "0", "", "Sequence0","{DA159670-5177-487d-8CD1-1B01D4D71D2D}");
+tocTab[tocTab.length] = new Array("2.5.1.1:1", "", "DS - Delete pedido", "EARoot/EA2/EA5/EA1/EA1/EA208.htm", "185.png", "80", "0", "", "Sequence diagram0","{506B6919-BCF6-4de1-B993-4F76C6AA1A65}");
+tocTab[tocTab.length] = new Array("2.5.1.1:2", "", ": Pedido", "EARoot/EA2/EA5/EA1/EA1/EA210.htm", "25.png", "565", "0", "", "Object0","{46FB2CCE-87DD-4503-BCA5-9E5E94C2D733}");
+tocTab[tocTab.length] = new Array("2.5.1.1:3", "", ": pedidosForm", "EARoot/EA2/EA5/EA1/EA1/EA211.htm", "25.png", "564", "0", "", "Object0","{B09A2164-C369-4d00-AFB8-B64AD64F5720}");
+tocTab[tocTab.length] = new Array("2.5.1.1:4", "", ": ViewPedido", "EARoot/EA2/EA5/EA1/EA1/EA212.htm", "25.png", "563", "0", "", "Object0","{31B7293B-A6F6-4882-B5F5-BE81BDBFCB39}");
+tocTab[tocTab.length] = new Array("2.5.1.1:5", "", "Object1", "EARoot/EA2/EA5/EA1/EA1/EA213.htm", "57.png", "566", "0", "", "Sequence0","{1D38A060-543D-4f49-80B6-8194426B1FE9}");
+tocTab[tocTab.length] = new Array("2.5.1.1:6", "", "«boundary» Template", "EARoot/EA2/EA5/EA1/EA1/EA214.htm", "57.png", "567", "0", "", "Sequence0","{DA159670-5177-487d-8CD1-1B01D4D71D2D}");

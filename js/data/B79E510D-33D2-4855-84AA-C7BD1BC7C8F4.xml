@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("2.2.1", "1", "DA- CRUD datos personales del Cliente", "EARoot/EA2/EA2/EA143.htm", "4.png", "", "", "{AB2AE477-E07B-40bc-A0D6-B9CD11251D4C}", "Package");
-tocTab[tocTab.length] = new Array("2.2.2", "", "DS - Ver productos disponibles ", "EARoot/EA2/EA2/EA144.htm", "4.png", "", "", "{F97D2179-8C21-497b-9F85-48CFE92E9EDE}", "Package");
+tocTab[tocTab.length] = new Array("2.2.1", "1", "DA- CRUD datos personales del Cliente", "EARoot/EA2/EA2/EA144.htm", "4.png", "", "", "{AB2AE477-E07B-40bc-A0D6-B9CD11251D4C}", "Package");
+tocTab[tocTab.length] = new Array("2.2.2", "", "DS - Ver productos disponibles ", "EARoot/EA2/EA2/EA145.htm", "4.png", "", "", "{F97D2179-8C21-497b-9F85-48CFE92E9EDE}", "Package");
